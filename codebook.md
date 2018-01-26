@@ -3,7 +3,7 @@
 **Tomasz M. Jankowski**  
 to.j123@poczta.fm [remove 123]
 
-Readme  
+Codebook  
 Database, v. 1.0
 
 
